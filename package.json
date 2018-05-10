@@ -1,0 +1,8 @@
+{
+  "name": "my-first-yarn-project",
+  "version": "1.0.0",
+  "description": "Pretty cool",
+  "main": "index.js",
+  "author": "Ev",
+  "license": "MIT"
+}
